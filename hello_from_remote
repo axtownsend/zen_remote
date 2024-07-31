@@ -1,2 +1,11 @@
 Hello world from remote repo!
 Hello back from local!
+
+1. git status
+1a. git log
+2. git pull
+3. Make changes and edits.
+4. git status.
+5. git add [files].
+6. git commit -m "Imperative Message!"
+7. git push.
